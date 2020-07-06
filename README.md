@@ -1,4 +1,4 @@
-# Agenda Telefônica
+# Agenda Telefônica:
 Aplicação WEB desenvolvida como parte do processo de seletivo em uma empresa. (Agenda Telefônica)
 Desenvolvedora: Ana Guelfi Erba
 
@@ -11,7 +11,21 @@ Desenvolvedora: Ana Guelfi Erba
 
 # Linguagens utilizadas:
 - HTML, PHP, JQUERY+AJAX+JSON
-- Estilização: Bootstrap
 
-# Servidor WEB
+# Estilização:
+- Bootstrap
+
+# Servidor WEB:
 - USBWEBSERVER v8.6.5: Apache, MySQL e PHP
+
+# Forma de acesso e utilização:
+- Baixe a ferramenta USBWEBSERVER v8.6.5.
+- Inicialize a ferramenta USBWEBSERVER v8.6.5.
+- Banco de dados:
+  - Pelo menu de utilidades do USBWEBSERVER, clique em PHPMyAdmin. A página aberta deve possuir o seguinte endereço: http://localhost/phpmyadmin/
+  - Utilizador: root | Palavra-passe: usbw
+  - No menu de endereço: http://localhost/phpmyadmin/index.php, clique em importar e selecione o arquivo de banco de dados disponibilizado: agenda.sql e conclua a importação.
+- Aplicação WEB:
+  - Após baixar os arquivos cujo commit seja "Arquivos da aplicação WEB", copie-os para a pasta root do USBWEBSERVER.
+  - Pelo menu de utilidades do USBWEBSERVER, clique em Localhost. Na barra de pesquisa do navegador, digite http://localhost/cadastro.php ou localhost + o caminho referente ao arquivo cadastro.php
+Após seguir os referidos passos, basta utilizar a aplicação WEB.
