@@ -7,7 +7,6 @@ Desenvolvedora: Ana Guelfi Erba
 - Permitir incluir, alterar, excluir e exibir os registros cadastrados. 
 - Armazene os dados em memória ou usando um banco de dados.
 - Utilize o máximo de conhecimento que você possui ao desenvolver este projeto.
-- Colocar o projeto no GitHub e enviar o endereço para nós.
 
 # Linguagens utilizadas:
 - HTML, PHP, JQUERY+AJAX+JSON
