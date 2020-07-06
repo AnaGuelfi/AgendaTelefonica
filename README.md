@@ -27,5 +27,6 @@ Desenvolvedora: Ana Guelfi Erba
   - No menu de endereço: http://localhost/phpmyadmin/index.php, clique em importar e selecione o arquivo de banco de dados disponibilizado: agenda.sql e conclua a importação.
 - Aplicação WEB:
   - Após baixar os arquivos cujo commit seja "Arquivos da aplicação WEB", copie-os para a pasta root do USBWEBSERVER.
-  - Pelo menu de utilidades do USBWEBSERVER, clique em Localhost. Na barra de pesquisa do navegador, digite http://localhost/cadastro.php ou localhost + o caminho referente ao arquivo cadastro.php
+  - Pelo menu de utilidades do USBWEBSERVER, clique em Localhost. Na barra de pesquisa do navegador, digite http://localhost/cadastro.php ou localhost + o caminho referente ao arquivo cadastro.php.
+  
 Após seguir os referidos passos, basta utilizar a aplicação WEB.
